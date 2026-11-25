@@ -1,0 +1,9 @@
+# Compiled binaries & object files
+herald
+Src/herald
+*.o
+*.out
+
+# Local peer contact databases
+peers_*.db
+peers.db
